@@ -3326,7 +3326,7 @@
 //           <div className="max-w-5xl mx-auto text-center">
 //             <div className="animate-in fade-in slide-in-from-bottom-8 duration-1000">
 //               <h1 className="text-6xl md:text-8xl font-extrabold mb-4 text-white animate-popIn">
-//   Disk Scheduling
+//   CPU Scheduling
 // </h1>
 
 //               <div className="text-5xl md:text-7xl font-bold mb-8 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent drop-shadow-lg">
@@ -3498,7 +3498,7 @@
 //       {/* Header */}
 //       <div className="bg-gradient-to-r from-gray-800 to-gray-900 text-white py-6 shadow-xl sticky top-0 z-50">
 //         <div className="max-w-7xl mx-auto px-4 flex justify-between items-center">
-//           <h1 className="text-2xl md:text-3xl font-bold">Disk Scheduling Simulator</h1>
+//           <h1 className="text-2xl md:text-3xl font-bold">CPU Scheduling Simulator</h1>
 //           <button 
 //             onClick={() => setPage('home')}
 //             className="px-6 py-2 bg-white/10 hover:bg-white/20 rounded-lg transition-all duration-300 font-medium">
