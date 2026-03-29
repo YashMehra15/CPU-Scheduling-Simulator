@@ -41,6 +41,10 @@ Frontend:
 5. Open in browser:
    http://localhost:5173
 
+🚀 Live Demo
+
+https://cpu-scheduling-simulator-smoky.vercel.app/
+
 ## 🎯 Purpose
 This project helps visualize CPU scheduling algorithms and understand performance metrics like average waiting time and turnaround time.
 
