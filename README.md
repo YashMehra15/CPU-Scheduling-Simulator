@@ -41,8 +41,7 @@ Frontend:
 5. Open in browser:
    http://localhost:5173
 
-🚀 Live Demo
-
+## 🚀 Live Demo
 https://cpu-scheduling-simulator-smoky.vercel.app/
 
 ## 🎯 Purpose
